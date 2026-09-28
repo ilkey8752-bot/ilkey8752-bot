@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
+  <title id="title">Portfolio cybersécurité d'Ilké Yilmaz</title>
+  <desc id="desc">Bannière sobre présentant l'administration sécurisée, les réseaux et la cybersécurité.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0f172a"/><stop offset="1" stop-color="#164e63"/></linearGradient>
+  </defs>
+  <rect width="1200" height="280" rx="24" fill="url(#bg)"/>
+  <g fill="none" stroke="#5eead4" stroke-width="4" opacity=".9">
+    <path d="M1020 58l70 30v52c0 48-31 77-70 91-39-14-70-43-70-91V88z"/>
+    <path d="M985 139l24 24 48-57"/>
+  </g>
+  <text x="72" y="108" fill="#f8fafc" font-family="Segoe UI,Arial" font-size="46" font-weight="700">Ilké Yilmaz</text>
+  <text x="72" y="163" fill="#99f6e4" font-family="Segoe UI,Arial" font-size="27">Administration d'infrastructures sécurisées</text>
+  <text x="72" y="210" fill="#cbd5e1" font-family="Segoe UI,Arial" font-size="21">Systèmes • Réseaux • IAM • Automatisation • Analyse défensive</text>
+</svg>
+
+
